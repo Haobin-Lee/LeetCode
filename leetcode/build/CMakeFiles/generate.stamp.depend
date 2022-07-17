@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+D:/C++ programs/新建文件夹/CMakeLists.txt
+D:/C++ programs/新建文件夹/build/CMakeFiles/3.24.0-rc3/CMakeCXXCompiler.cmake
+D:/C++ programs/新建文件夹/build/CMakeFiles/3.24.0-rc3/CMakeRCCompiler.cmake
+D:/C++ programs/新建文件夹/build/CMakeFiles/3.24.0-rc3/CMakeSystem.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CPack.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CPackComponent.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CTest.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CTestTargets.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/CTestUseLaunchers.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/DartConfiguration.tcl.in
+D:/Environment/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake
+D:/Environment/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+D:/Environment/CMake/share/cmake-3.24/Templates/CPackConfig.cmake.in
